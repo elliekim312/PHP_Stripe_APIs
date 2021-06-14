@@ -21,3 +21,6 @@ Online payment APIs for one time and recurring payments.
 7. Webhooks from stripe
 
    - webhooks : a notification from Stripe APIs once something you set up is changed.
+
+# Logic Map
+https://docs.google.com/presentation/d/17xoTgWqj8kN0tVNLH4jdWJyyclJhAqniBu1QZ_R9nMI/edit?usp=sharing
